@@ -1,0 +1,11 @@
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\Newegg.Internship.CSharpTraining.SimpleORM.Tests.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\Newegg.Internship.CSharpTraining.SimpleORM.Tests.pdb
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\Newegg.Internship.CSharpTraining.SimpleORM.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\NSubstitute.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\nunit.framework.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\Newegg.Internship.CSharpTraining.SimpleORM.pdb
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\NSubstitute.xml
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\bin\Debug\nunit.framework.xml
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\obj\Debug\SimpleORM.Tests.csprojResolveAssemblyReference.cache
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\obj\Debug\Newegg.Internship.CSharpTraining.SimpleORM.Tests.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM.Tests\obj\Debug\Newegg.Internship.CSharpTraining.SimpleORM.Tests.pdb

@@ -1,0 +1,6 @@
+F:\Project\Git-Project\training_csharp\src\SimpleORM\bin\Debug\Newegg.Internship.CSharpTraining.SimpleORM.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM\bin\Debug\Newegg.Internship.CSharpTraining.SimpleORM.pdb
+F:\Project\Git-Project\training_csharp\src\SimpleORM\bin\Debug\nunit.framework.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM\bin\Debug\nunit.framework.xml
+F:\Project\Git-Project\training_csharp\src\SimpleORM\obj\Debug\Newegg.Internship.CSharpTraining.SimpleORM.dll
+F:\Project\Git-Project\training_csharp\src\SimpleORM\obj\Debug\Newegg.Internship.CSharpTraining.SimpleORM.pdb
